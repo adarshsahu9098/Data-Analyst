@@ -1,0 +1,64 @@
+OrderID,CustomerName,Gender,Age,ProductCategory,Product,Quantity,Price,PurchaseDate,Rating
+1001,Diana,Male,,Clothing,Jeans,2,800,2024-03-27,
+1002,Robert,Male,,Electronics,Mobile,1,2500,2024-01-30,5.0
+1003,Tom,Male,37.0,Sports,Shoes,2,700,2024-03-16,3.0
+1004,Alice,Male,,Home,Toaster,2,2500,2024-04-07,3.0
+1005,Diana,Male,32.0,Home,Toaster,3,500,2024-04-03,4.0
+1006,Robert,Male,,Electronics,Headphones,3,2500,2024-03-31,1.0
+1007,Bob,Male,,Electronics,Laptop,1,450,2024-02-05,4.0
+1008,Leo,Male,,Clothing,Jacket,1,1200,2024-03-09,
+1009,Henry,Male,,Home,Kettle,3,500,2024-01-30,1.0
+1010,Kathy,Female,28.0,Clothing,Jacket,2,700,2024-02-20,
+1011,Olivia,Male,28.0,Clothing,Jacket,4,450,2024-02-16,2.0
+1012,Eva,Female,22.0,Electronics,Laptop,2,450,2024-03-17,1.0
+1013,Mona,Female,,Sports,Tennis Racket,1,800,2024-03-28,5.0
+1014,Iris,Female,,Beauty,Perfume,4,500,2024-04-02,
+1015,Iris,Male,36.0,Home,Kettle,2,15000,2024-04-07,2.0
+1016,Robert,Male,,Beauty,Lipstick,1,15000,2024-04-22,3.0
+1017,Henry,Male,27.0,Electronics,Camera,1,1800,2024-04-08,2.0
+1018,Eva,Female,50.0,Home,Lamp,2,1800,2024-04-06,
+1019,Grace,Female,,Beauty,Shampoo,1,2500,2024-01-29,1.0
+1020,Kathy,Male,38.0,Sports,Cricket Bat,1,800,2024-03-31,
+1021,Bob,Male,22.0,Home,Mixer,2,55000,2024-03-26,4.0
+1022,Grace,Male,,Clothing,Shoes,4,2500,2024-01-13,1.0
+1023,Nick,Female,,Beauty,Lipstick,1,500,2024-02-21,
+1024,Kathy,Male,27.0,Clothing,Shoes,2,450,2024-01-24,3.0
+1025,Olivia,Male,47.0,Beauty,Lipstick,1,1800,2024-04-17,1.0
+1026,Charlie,Male,,Beauty,Shampoo,2,450,2024-04-25,1.0
+1027,Frank,Female,,Home,Lamp,3,450,2024-03-30,
+1028,Robert,Female,24.0,Home,Kettle,1,1800,2024-01-08,
+1029,Kathy,Male,,Sports,Cricket Bat,1,1800,2024-01-11,2.0
+1030,Charlie,Male,41.0,Beauty,Lipstick,2,500,2024-03-20,1.0
+1031,Nick,Female,,Clothing,Jacket,2,55000,2024-02-20,2.0
+1032,Jack,Female,30.0,Electronics,Camera,1,800,2024-03-09,2.0
+1033,Queen,Female,,Electronics,Laptop,3,55000,2024-01-21,4.0
+1034,Robert,Female,39.0,Sports,Tennis Racket,1,1200,2024-02-03,1.0
+1035,Diana,Male,,Sports,Cricket Bat,3,2500,2024-03-28,
+1036,Iris,Female,28.0,Electronics,Camera,3,500,2024-01-01,3.0
+1037,Eva,Female,,Sports,Shoes,1,800,2024-01-10,
+1038,Eva,Male,,Sports,Cricket Bat,4,1200,2024-01-06,3.0
+1039,Leo,Male,,Clothing,Jeans,1,15000,2024-04-09,5.0
+1040,Nick,Male,49.0,Clothing,Jeans,4,500,2024-01-23,
+1041,Kathy,Female,45.0,Home,Kettle,1,450,2024-04-21,1.0
+1042,Paul,Male,,Home,Toaster,2,2500,2024-01-04,
+1043,Grace,Female,,Electronics,Headphones,3,1800,2024-02-21,
+1044,Robert,Female,50.0,Electronics,Headphones,2,55000,2024-01-05,1.0
+1045,Tom,Female,,Beauty,Lipstick,4,2500,2024-02-02,1.0
+1046,Nick,Male,36.0,Home,Lamp,1,15000,2024-03-20,3.0
+1047,Diana,Female,,Beauty,Cream,4,55000,2024-03-11,2.0
+1048,Grace,Female,,Clothing,Jacket,4,1800,2024-04-16,1.0
+1049,Jack,Female,,Sports,Tennis Racket,4,700,2024-02-26,
+1050,Grace,Female,45.0,Electronics,Headphones,3,800,2024-04-14,2.0
+1051,Jack,Male,45.0,Clothing,T-Shirt,1,2500,2024-03-01,5.0
+1052,Charlie,Female,33.0,Beauty,Shampoo,4,2500,2024-01-19,
+1053,Alice,Male,,Clothing,Jeans,4,500,2024-03-12,2.0
+1054,Diana,Female,,Sports,Tennis Racket,4,1800,2024-02-24,5.0
+1055,Olivia,Male,,Beauty,Cream,2,55000,2024-04-08,5.0
+1056,Paul,Male,,Electronics,Headphones,2,55000,2024-02-12,3.0
+1057,Robert,Male,24.0,Clothing,Shoes,2,2500,2024-01-09,4.0
+1058,Nick,Female,,Beauty,Lipstick,2,450,2024-02-19,5.0
+1059,Alice,Female,35.0,Home,Toaster,4,450,2024-03-09,
+1060,Robert,Male,35.0,Home,Lamp,4,500,2024-02-19,3.0
+1001,Diana,Male,,Clothing,Jeans,2,800,2024-03-27,
+1006,Robert,Male,,Electronics,Headphones,3,2500,2024-03-31,1.0
+1037,Eva,Female,,Sports,Shoes,1,800,2024-01-10,
